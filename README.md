@@ -1,4 +1,4 @@
-# **Application de Granulométrie — Outil d’analyse d’images scientifiques**
+# 🔬 **Application de Granulométrie — Outil d’analyse d’images scientifiques**
 
 **Application de Granulométrie** est un logiciel Java permettant d’**extraire**, **quantifier** et **visualiser** les particules présentes dans des images scientifiques.
 Le projet vise à automatiser l’analyse d’images de grains, à générer des visualisations statistiques et à offrir un outil fonctionnel pour la recherche ou l’industrie.
