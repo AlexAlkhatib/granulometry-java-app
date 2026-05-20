@@ -76,12 +76,12 @@ Depuis Eclipse :
 
 ## 🧠 Compétences démontrées
 
-✔ Traitement d’image et segmentation automatique
-✔ Extraction de données scientifiques (granulométrie)
-✔ Création d’interface utilisateur en JavaFX
-✔ Packaging d’un logiciel Java exécutable
-✔ Travail en équipe (collaborateurs mentionnés)
-✔ Application de méthodes d’analyse des distributions de taille de particules (granulométrie) ([Wikipédia][1])
+- ✔ Traitement d’image et segmentation automatique
+- ✔ Extraction de données scientifiques (granulométrie)
+- ✔ Création d’interface utilisateur en JavaFX
+- ✔ Packaging d’un logiciel Java exécutable
+- ✔ Travail en équipe (collaborateurs mentionnés)
+- ✔ Application de méthodes d’analyse des distributions de taille de particules (granulométrie) ([Wikipédia][1])
 
 
 ## 🔧 Pistes d’amélioration
