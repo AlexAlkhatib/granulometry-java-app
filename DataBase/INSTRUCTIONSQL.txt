@@ -1,3 +1,0 @@
-Use root as login and "" as password,
-run the .sql file in a mySql Server 
-name Database as "Granulometrie"
